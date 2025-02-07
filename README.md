@@ -37,6 +37,10 @@ YearBuilt: Year the house was built
 
 CouncilArea: Governing council for the area
 
+
+Source of BostonHousingFairlearnDataset.csv:
+https://fairlearn.org/main/api_reference/generated/fairlearn.datasets.fetch_boston.html#fairlearn.datasets.fetch_boston
+
 Lattitude: Self explanitory
 
 Longtitude: Self explanitory
